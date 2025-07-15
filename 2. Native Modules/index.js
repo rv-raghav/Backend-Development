@@ -1,3 +1,5 @@
+// using native modules
+
 const fs = require("fs");
 
 // Write to the file
